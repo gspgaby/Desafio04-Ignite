@@ -40,7 +40,7 @@ yarn server
 yarn dev
 ```
 
-- Acesse http://localhost:8080 no seu navagador
+- Acesse http://localhost:3000 no seu navagador
 
 # Autora
 
