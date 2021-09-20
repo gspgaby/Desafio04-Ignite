@@ -44,4 +44,4 @@ yarn dev
 
 # Autora
 
-- [Gabriella dos Santos Pereira](https://github.com/gspg
+- [Gabriella dos Santos Pereira](https://github.com/gspgaby
